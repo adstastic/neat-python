@@ -19,6 +19,7 @@ currently only supported on Python 3.6 through 3.11, and pypy3.
 
 If you want to try neat-python, please check out the repository, start playing with the examples (`examples/xor` is
 a good place to start) and then try creating your own experiment.
+The examples must be run from the example directory as they depend on relative paths to config files.
 
 The documentation is available on [Read The Docs](http://neat-python.readthedocs.io).
 
